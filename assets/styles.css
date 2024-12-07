@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.aa{
+    background-color: rgba(50, 0, 0, 0.6);
+}
 /* Configura o layout da página */
 body, html {
     height: 100%; /* Garante que a altura da página seja 100% */
